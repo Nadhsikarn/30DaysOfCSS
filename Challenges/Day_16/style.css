@@ -1,7 +1,7 @@
 body {
   height: 100vh;
   padding: 0 20px;
-  background: linear-gradient(0, #120c56, #000000);
+  background: linear-gradient(0, #42ba16, #e1c10b);
 }
   
 button {
@@ -24,7 +24,7 @@ div:hover button::after {
   content: "";
   width: 320px;
   height: 20px;
-  background: linear-gradient(#F34423, #A12A13);
+  background: linear-gradient(#7d23f3, #4204ae);
   box-shadow: 7px 5px 10px #651708;
   border-top-right-radius: 12px;
   border-bottom-right-radius: 12px;
