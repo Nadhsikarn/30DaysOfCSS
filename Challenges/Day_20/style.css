@@ -4,13 +4,14 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #CEE3F5;
+  background-color: #cef433;
 }
 
 h1 {
   font-size: 100px;
-  color: #F8B5B6;
+  color: #c6b5f8;
   position: relative;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1::before {
@@ -18,7 +19,7 @@ h1::before {
   position: absolute;
   top: 0%;
   left: 0%;
-  color:#F2637C;
+  color:#2ab81d;
   width: 0%;
   overflow: hidden;
   transition: all 0.6s;
